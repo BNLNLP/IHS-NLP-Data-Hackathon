@@ -1,0 +1,54 @@
+A broad-spectrum antiviral targeting entry of enveloped viruses.
+A critical assessment of the residues important to these processes provides insights into the correlation between dimerization and catalysis within the coronaviral Mpro family.
+A pattern that emerges from studies on SFV and influenza virus is that conformational changes induced by low pH lead to the formation of stable trimeric complexes of subunits of the envelope proteins (E1 and HA2, respectively).
+Additional domains with nucleic acid-binding activity are present in SARS-CoV nsp3 and probably other coronaviruses.
+An example of such oligomeric states and how this impacts the catalytic function is the polymerase from PV.
+As the largest class I viral fusion protein, the coronavirus S glycoprotein is expected to undergo a prefusion to postfusion conformational transition to mediate the interaction between viral and cellular membrane proteins, although structural studies just began to shed light on this recently.
+At present, it is completely unclear whether and how the individual domains of Nsp3 interact with one another or with other components of the coronaviral replicase complex.
+At present, it is completely unclear whether and how the individual domains of Nsp3 interact with one another or with other components of the coronaviral replicase complex.
+Before fusion, the E protein of Flaviviruses and the E1-E2 proteins of Alphaviruses form metastable dimers on the viral surface .
+Compounds targeting CoV N proteins could also be used in conjunction with compounds that target the CoV replicase proteins to develop \u2018cocktail\u2019 therapies.
+Computational predictions and spectroscopic studies show that the SARS-CoV E TMD undergoes oligomerisation, characteristic of ion-channelling proteins, to form a stable pentamer .
+Coronavirus nonstructural protein 3 (nsp3) and nsp4 are multispanning transmembrane proteins modified by N-linked glycosylation, which may play critical functions during viral RNA synthesis and double membrane vesicle formation.
+Coronavirus replication complexes consist of intricate macromolecular structures in which many of the non-structural replicase proteins are involved.
+Coronavirus RNA replication and transcription are mediated by nonstructural proteins (nsps) encoded by two open reading frames, ORF1a and ORF1b (Fig. 1
+Coronaviruses initially express their non-structural proteins (nsps) as large viral polyproteins, which are processed into functional domains by proteases encoded within the polyproteins to establish a viral replication-transcriptase complex.
+CoV N proteins form oligomers but the mechanism and relevance underlying their multimerization remain to be fully understood.
+CoV N proteins form oligomers but the mechanism and relevance underlying their multimerization remain to be fully understood.
+Different strategies can be developed to fight enveloped viruses.
+Experiments are underway to determine the homo-oligomeric state of the SARS-CoV E protein.
+For example, targeting of coronavirus coat proteins  and Golgi resident enzymes  correlates with oligomerization in the Golgi apparatus.
+Further complexity for the study of coronavirus nucleocapsid assembly stems from its interaction with the M protein endodomain  and from the fact that several coronavirus proteins can interact with single-stranded RNA, including the nsp9 replicase protein from SARS-CoV .
+Further studies will be required to determine the precise topology of the TM domain in other coronaviruses, and if the lumenal sequences in nsp3-TM play any role in interacting with host factors during viral replication.
+Further work is also needed to ascertain the significance of the oligomeric state of SARS-CoV nsp10 (Fig.\u00a02C).
+Further, in infected cells, the MHV N protein forms oligomers already in the cytoplasm and its oligomerization does not require binding to gRNA.
+Furthermore, a hexadecameric nsp7-nsp8 supercomplex was described which was suggested to encircle RNA where it may serve as a general processivity factor for the RNA-dependent RNA Polymerase (RdRp) nsp12 (19).
+Generally, there are three targets for developing anti-viral agents, (1) inhibitors of virus entry and membrane fusion, (2) protease inhibitors to inhibit cleavage of the viral polymerase protein and viral RNA synthesis, and (3) nucleoside inhibitors to block viral replication.
+Homologs of cellular guanylyltransferase and guanine-N7-methyltransferases have not been identified in coronaviruses and it remains to be seen what viral or cellular proteins/activities mediate the two remaining reactions, namely GMP transfer and guanine-N7 methylation, to synthesize RNA cap structures on coronavirus RNAs.
+However, the oligomerization mechanism of the C-terminal domain of the HCoV-229E N protein remains unclear.
+However, the oligomerization mechanism of the C-terminal domain of the HCoV-229E N protein remains unclear.
+However, the oligomerization mechanism of the C-terminal domains (CTD) of CoV N proteins remains unclear.
+However, the oligomerization mechanism of the C-terminal domains (CTD) of CoV N proteins remains unclear.
+However, the role of each of the coronavirus nonstructural proteins in the assembly of DMVs is not yet clear.
+In addition, further research is needed to explore whether the dimer or other oligomers of nsp11 exist in a functional state during arterivirus replication.
+In addition, intermediate states of the coronavirus S glycoprotein trimer are also required for a better understanding of the molecular mechanisms underlying receptor binding and membrane fusion.
+In appearance and stability, these higher molecular-weight forms are reminiscent of the fusion-active oligomers of the avian leukosis retrovirus envelope glycoprotein that are induced upon receptor binding and acidic pH .
+In both crystal forms, SUDcore displays the same head-to-tail dimer, with the SUD-N subdomain of monomer A interacting with the SUD-M subdomain of monomer B, and vice versa.
+In order to exert their role in membrane fusion, viral spike proteins act as oligomers and go through a significant conformational change resulting in the \"trimer-of-hairpin\" conformation.
+In order to understand how coronaviruses replicate their genome, several questions must be answered: What viral proteins are required for coronavirus genome replication and how exactly do they function?
+In simple viruses, the capsid consists of a number of copies of the same, or a few different proteins organized into a symmetric oligomer.
+In the Coronaviridae family, the envelope M protein is a triple-spanning membrane glycoprotein that interacts with the nucleocapsid and S protein during assembly [7].
+In this structure, FCoV nsp7 and nsp8 assemble into a heterotrimer formed by one nsp8 molecule associated to two nsp7 molecules, without any central channel (Fig. 2B).
+Indeed, several crystal structures of capsid proteins have revealed the presence of multimers that present continuous patches of basic residues at their surface: the capsid proteins of West Nile virus and Borna disease virus form tetrameric assemblies  and the nucleocapsid protein of porcine respiratory syndrome virus, an arterivirus, forms dimers .
+Information on the specific interactions among nsps is also emerging based on biochemical, structural and functional studies of nsps from other coronaviruses .
+Inhibitors targeting envelope proteins
+It has been hypothesized that dimerization and possibly oligomerization of CoV N proteins plays an essential role in virus particle assembly.
+It is possible then that the higher molecular-weight forms observed in the SARS-CoV S glycoprotein represent post-fusion oligomers that provide a fortuitous measure of the relative stability of the wild-type and mutant six-helix bundles.
+It is unknown what, if any, relationship exists in the coronaviruses between proteolytic cleavage, activation of the structural reorganization in the S glycoprotein, and formation of the six-helix bundle.
+Many of these proteins also oligomerize into trimeric fusogenic complexes in their post-fusion states, forming trimeric hairpin structures on the viral envelope.
+MHV N protein assembles in cytoplasmic oligomers over the course of an infection
+MHV N protein assembles in cytoplasmic oligomers over the course of an infection 
+This proteinase plays an importance roll in the replication process of the virus, and is formed by two subunits or protomers (PA and PB) displaying an active site containing a catalytic dyad formed by His-41 and Cys-145.
+This approach is possible due to similarities between the substrate-binding sites of enterovirus 3C and CoV main proteases .
+Nearly all coronavirus replicase proteins have been shown to form complexes—both as homo-oligomers and in groups with complementary functions such as the RNA cap methylation complex of nsp10, nsp14, and nsp16 .
+Nearly all coronavirus replicase proteins have been shown to form complexes—both as homo-oligomers and in groups with complementary functions such as the RNA cap methylation complex of nsp10, nsp14, and nsp16 .
