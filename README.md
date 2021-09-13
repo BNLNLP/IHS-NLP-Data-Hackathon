@@ -15,7 +15,7 @@ The answers are sentences from papers related to COVID and are labeled as one of
 
 ## Datasets
 * Annotated articles: pre-processed JSON files of original PDF articles used for the QA data generation. 
-* Validation data: three aligned files - question, sentence, label (eg., the first label is for the first line of question and sentence.)
+* Validation data: three aligned files - question, sentence, label (i.e., the first label is for the first line of question and sentence.)
 * Test data: two aligned files - question, sentence
 
 Due to the limited size of the collected QA data for training a full-fledged NLP model, we recommend that participants leverage external resources to pre-train and fine-tune their models.
